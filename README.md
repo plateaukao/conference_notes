@@ -24,7 +24,7 @@
 |27|28|29|30|31|1|2|
 ||||||[Knowledge iN App in Flutter](https://threadreaderapp.com/thread/1477322581045051393.html)||
 |3|4|5|6|7|8|9|
-|[Avatar imitating me](https://threadreaderapp.com/thread/1478405250621280256.html)|||[Papago Image Translate[(https://threadreaderapp.com/thread/1479136776396877826.html)||||
+|[Avatar imitating me](https://threadreaderapp.com/thread/1478405250621280256.html)|||[Papago Image Translate](https://threadreaderapp.com/thread/1479136776396877826.html)||||
 |10|11|12|13|14|15|16|
 ||||||||
 |17|18|19|20|21|22|23|
