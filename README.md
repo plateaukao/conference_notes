@@ -26,7 +26,7 @@
 |3|4|5|6|7|8|9|
 |[Avatar imitating me](https://threadreaderapp.com/thread/1478405250621280256.html)|||[Papago Image Translate](https://threadreaderapp.com/thread/1479136776396877826.html)||||
 |10|11|12|13|14|15|16|
-||||||||
+|[Korean Style Agile](https://twitter.com/plateau/status/1480579058069286912?s=20)|||||||
 |17|18|19|20|21|22|23|
 ||||||||
 |24|25|26|27|28|29|30|
