@@ -28,7 +28,7 @@
 |10|11|12|13|14|15|16|
 |[Korean Style Agile](https://twitter.com/plateau/status/1480579058069286912?s=20)|[2021 LINE DEV Day Keynote](https://threadreaderapp.com/thread/1480956533978853381.html)||||[Aim at 100% Push Notification - LINE OA App](https://threadreaderapp.com/thread/1482373984528498690.html)||
 |17|18|19|20|21|22|23|
-||||||||
+|||[Implement MediaPlayer in Android](https://threadreaderapp.com/thread/1483861034704437248.html)|||||
 |24|25|26|27|28|29|30|
 ||||||||
 |31|1|2|3|4|5|6|
