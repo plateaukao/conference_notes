@@ -2,7 +2,7 @@
 
 ### Conference Links
 * [Naver DEVIEW 2021](https://t.co/CQTk7RTw0G)
-* [Kakao if 2021]()
+* [Kakao if 2021](https://if.kakao.com/session)
 
 ### 2021/12
 | Mon                                                                                                                                    | Tue                                                                                                                 | Wed                                                                                                                  | Thu                                                                                                                                          | Fri                                                                                                                                         | Sat                                                                                       | Sun                                                                                             |
